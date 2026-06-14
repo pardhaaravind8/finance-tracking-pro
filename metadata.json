@@ -1,0 +1,6 @@
+{
+  "name": "Mail OTPs",
+  "description": "Generate, design, and send secure One-Time Password (OTP) emails using Gmail or test them directly in an interactive simulated sandbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
